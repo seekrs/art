@@ -1,7 +1,5 @@
 ## Colors
 
-<summary><h2>Color palette</h2></summary>
-
 |                                                         | Name          |    Hex    | Usage                                                                             |
 | :-----------------------------------------------------: | :------------ | :-------: | :-------------------------------------------------------------------------------- |
 |        <img src="colors/seekrs.svg" width="40">         | Seekrs        | `#D950FF` | new Seekers Color                                                                 |
